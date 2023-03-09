@@ -29,7 +29,7 @@ order: 2
 
 实际使用中，我直接复制 emoji，都能正常显示。
 
-## 本地命令
+## 本地命令---
 
 [docsify 本地命令](https://github.com/docsifyjs/docsify-cli):
 
